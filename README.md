@@ -72,10 +72,18 @@ I am a highly technical, product-focused engineer with **4+ years of experience*
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpangeni&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritpangeni&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpangeni&show_icons=true&theme=transparent&hide_border=true&title_color=0052CC&text_color=ffffff&icon_color=00B39E" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritpangeni&theme=transparent&hide_border=true&stroke=0052CC&ring=00B39E&fire=FF4B4B&currStreakLabel=ffffff" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
