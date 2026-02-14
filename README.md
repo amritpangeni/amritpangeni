@@ -52,19 +52,29 @@ I am a highly technical, product-focused engineer with **6+ years of experience*
 ### 📦 Products & Projects
 
 #### 🔐 [Trexiam](https://trexif.com/trexiam) (Privilage Access Management Suite)
-*Custom-branded, enterprise-compliant Privileged Access Management platform built for government and enterprise use.*
+```markdown
+*Enterprise-grade Privileged Access Management (PAM) suite featuring secure credential vaulting, automated password rotation, and real-time session recording. Designed with Zero Trust architecture to secure critical infrastructure and ensure regulatory compliance through detailed auditing.*
+```
 
 #### 👥 [StaffX](https://hr.trexif.com) (ATS based HRMS & Payroll Platform)
-*Full-lifecycle employee management system (Recruitment → Exit) with multi-role access control and audit-ready design with AI features to automate the recruitment process and analysis of profiles*
+```markdown
+*Comprehensive HRMS and Payroll platform integrated with an Applicant Tracking System (ATS). It streamlines recruitment, employee lifecycle management, and automated payroll processing while ensuring organizational efficiency and data-driven HR decision-making.*
+```
 
 #### 🔐 [Edtrex](https://edtrex.com) (AI Based Learning & Educational Institution Management System)
-*enterprise-compliant AI-Assisted Academic Content Creation & AI-Assisted Learning platform built for Schools, colleges & Universities use.*
+```markdown
+*An AI-driven learning and educational institution management system designed to modernize academic operations. It features personalized learning paths, automated administrative workflows, and comprehensive student performance tracking to enhance the educational experience for both institutions and learners.*
+```
 
-#### 🔐 [CoderX] (https://github.com/amritpangeni/CoderX.git) (Opensource AI Coding Agent tool based on Code-oss)
+#### 🔐 [CoderX](https://github.com/amritpangeni/CoderX.git) (Opensource AI Coding Agent tool based on Code-oss)
+```markdown
 *CoderX is an open-source AI coding agent tool based on Code-oss, designed to assist developers in writing, debugging, and optimizing code. It integrates with various AI models to provide intelligent coding suggestions, code completion, and automated code generation.*
+```
 
 #### 🔐 [knowThreat](https://github.com/amritpangeni/knowThreat.git) (Cybersecurity awareness and threat intelligence platform)
+```markdown
 *KnowThreat is a modern cybersecurity awareness and threat intelligence platform designed to help organizations identify, understand, and mitigate security risks through continuous training, simulation, and real-time threat insights.*
+```
 
 ---
 
