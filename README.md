@@ -58,22 +58,22 @@ I am a highly technical, product-focused engineer with **6+ years of experience*
 
 #### 👥 [StaffX](https://hr.trexif.com) (ATS based HRMS & Payroll Platform)
 ```markdown
-*Comprehensive HRMS and Payroll platform integrated with an Applicant Tracking System (ATS). It streamlines recruitment, employee lifecycle management, and automated payroll processing while ensuring organizational efficiency and data-driven HR decision-making.*
+Comprehensive HRMS and Payroll platform integrated with an Applicant Tracking System (ATS). It streamlines recruitment, employee lifecycle management, and automated payroll processing while ensuring organizational efficiency and data-driven HR decision-making.
 ```
 
 #### 🔐 [Edtrex](https://edtrex.com) (AI Based Learning & Educational Institution Management System)
 ```markdown
-*An AI-driven learning and educational institution management system designed to modernize academic operations. It features personalized learning paths, automated administrative workflows, and comprehensive student performance tracking to enhance the educational experience for both institutions and learners.*
+An AI-driven learning and educational institution management system designed to modernize academic operations. It features personalized learning paths, automated administrative workflows, and comprehensive student performance tracking to enhance the educational experience for both institutions and learners.
 ```
 
 #### 🔐 [CoderX](https://github.com/amritpangeni/CoderX.git) (Opensource AI Coding Agent tool based on Code-oss)
 ```markdown
-*CoderX is an open-source AI coding agent tool based on Code-oss, designed to assist developers in writing, debugging, and optimizing code. It integrates with various AI models to provide intelligent coding suggestions, code completion, and automated code generation.*
+CoderX is an open-source AI coding agent tool based on Code-oss, designed to assist developers in writing, debugging, and optimizing code. It integrates with various AI models to provide intelligent coding suggestions, code completion, and automated code generation.
 ```
 
 #### 🔐 [knowThreat](https://github.com/amritpangeni/knowThreat.git) (Cybersecurity awareness and threat intelligence platform)
 ```markdown
-*KnowThreat is a modern cybersecurity awareness and threat intelligence platform designed to help organizations identify, understand, and mitigate security risks through continuous training, simulation, and real-time threat insights.*
+KnowThreat is a modern cybersecurity awareness and threat intelligence platform designed to help organizations identify, understand, and mitigate security risks through continuous training, simulation, and real-time threat insights.
 ```
 
 ---
