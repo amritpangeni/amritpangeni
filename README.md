@@ -51,30 +51,20 @@ I am a highly technical, product-focused engineer with **6+ years of experience*
 
 ### 📦 Products & Projects
 
-#### 🔐 [Trexiam](https://trexif.com/trexiam) (Privilage Access Management Suite)
-```markdown
+#### 🔐 [Trexiam](https://trexif.com/trexiam) (Privilege Access Management Suite)
 *Enterprise-grade Privileged Access Management (PAM) suite featuring secure credential vaulting, automated password rotation, and real-time session recording. Designed with Zero Trust architecture to secure critical infrastructure and ensure regulatory compliance through detailed auditing.*
-```
 
 #### 👥 [StaffX](https://hr.trexif.com) (ATS based HRMS & Payroll Platform)
-```markdown
 Comprehensive HRMS and Payroll platform integrated with an Applicant Tracking System (ATS). It streamlines recruitment, employee lifecycle management, and automated payroll processing while ensuring organizational efficiency and data-driven HR decision-making.
-```
 
 #### 🔐 [Edtrex](https://edtrex.com) (AI Based Learning & Educational Institution Management System)
-```markdown
 An AI-driven learning and educational institution management system designed to modernize academic operations. It features personalized learning paths, automated administrative workflows, and comprehensive student performance tracking to enhance the educational experience for both institutions and learners.
-```
 
-#### 🔐 [CoderX](https://github.com/amritpangeni/CoderX.git) (Opensource AI Coding Agent tool based on Code-oss)
-```markdown
+#### 🔐 [CoderX](https://github.com/amritpangeni/CoderX) (Open Source AI Coding Agent)
 CoderX is an open-source AI coding agent tool based on Code-oss, designed to assist developers in writing, debugging, and optimizing code. It integrates with various AI models to provide intelligent coding suggestions, code completion, and automated code generation.
-```
 
-#### 🔐 [knowThreat](https://github.com/amritpangeni/knowThreat.git) (Cybersecurity awareness and threat intelligence platform)
-```markdown
+#### 🔐 [knowThreat](https://github.com/amritpangeni/knowThreat) (Cybersecurity Awareness & Threat Intelligence)
 KnowThreat is a modern cybersecurity awareness and threat intelligence platform designed to help organizations identify, understand, and mitigate security risks through continuous training, simulation, and real-time threat insights.
-```
 
 ---
 
@@ -92,10 +82,10 @@ KnowThreat is a modern cybersecurity awareness and threat intelligence platform 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpangeni&show_icons=true&theme=transparent&hide_border=true&title_color=0052CC&text_color=ffffff&icon_color=00B39E" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpangeni&show_icons=true&theme=tokyonight&hide_border=true&title_color=0052CC&icon_color=00B39E" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritpangeni&theme=transparent&hide_border=true&stroke=0052CC&ring=00B39E&fire=FF4B4B&currStreakLabel=ffffff" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritpangeni&theme=tokyonight&hide_border=true&stroke=0052CC&ring=00B39E&fire=FF4B4B" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
