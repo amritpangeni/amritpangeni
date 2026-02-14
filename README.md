@@ -1,63 +1,93 @@
 # Hi there, I'm Amrit Pangeni 👋
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Infrastructure%20is%20code,%20architecture%20is%20art." alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Tools%20change.%20Architectures%20evolve.%20Strong%20fundamentals%20and%20system%20thinking%20never%20expire.&theme=tokyonight" alt="Career Philosophy" />
 </div>
 
-### 👨‍💻 About Me
-
-I am a **System, Infrastructure, Network, and Security Engineer** with over 5 years of experience building scalable, secure, and efficient systems. My passion lies in automating complex infrastructures and implementing high-availability solutions.
-
-- 🔭 Currently working on: **Zero-trust security models & Monitoring solutions.**
-- 🌱 Learning: **Advanced Kubernetes orchestration & AI-driven observability.**
-- ⚡ Fun fact: **I believe every manual task should be a script.**
+<div align="center">
+  <h3>🚀 Founder & CEO @ <a href="https://trexif.com">Trexif Inc.</a></h3>
+  <p><strong>System Engineer | Cybersecurity Specialist | DevOps & Cloud Architect</strong></p>
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 👨‍💻 Professional Profile
 
-#### **Infrastructure & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
+I am a highly technical, product-focused engineer with **4+ years of experience** across cybersecurity, system engineering, DevOps, and cloud infrastructure. I specialize in building secure, scalable, production-grade systems—from infrastructure automation to enterprise platforms.
 
-#### **Networking & Security**
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-#### **Full Stack & Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
+- 🌍 Based in **Nepal**, working with global-grade architectures.
+- 🔐 Specialist in **Ethical Hacking & Cybersecurity** (Bachelor's Degree).
+- 🏢 Managing **Trexif Inc.**, architecting enterprise platforms for government & enterprise.
+- 🏗️ Philosophy: **"I don’t just write code — I design systems that last."**
 
 ---
 
-### 📊 GitHub Stats
+### 🛡️ Cybersecurity & Systems Expertise
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PAM-Privileged_Access_Management-0052CC?style=for-the-badge&logo=strongdm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zero_Trust-Architecture-00B39E?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerability_Assessment-Pentesting-FF4B4B?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</p>
+
+- **Identity & Access**: PAM platforms, Credential Vaulting & Rotation, RBAC/ABAC.
+- **System Hardening**: Linux (Ubuntu, RHEL), Hardening operations, Session recording & Auditing.
+- **Compliance**: Security strategy for government tenders and enterprise compliance.
+
+---
+
+### ☁️ Infrastructure & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kubernetes-Operations-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStack-MAAS_Juju-EB3324?style=flat-square&logo=openstack&logoColor=white" />
+</p>
+
+- **Automation**: CI/CD (GitHub Actions, GitLab CI), Infrastructure as Code (Terraform).
+- **Orchestration**: Kubernetes cluster management, MAAS & Juju deployments.
+- **SRE & Observability**: Prometheus, Grafana, ELK Stack.
+
+---
+
+### 📦 Products & Projects
+
+#### 🔐 [Trexiam](https://trexif.com/trexiam) (Custom PAM Platform)
+*Custom-branded, enterprise-compliant Privileged Access Management platform built for government and enterprise use.*
+
+#### 👥 PeopleXIF (HRMS Platform)
+*Full-lifecycle employee management system (Recruitment → Exit) with multi-role access control and audit-ready design.*
+
+#### 🤖 AI Social Media Agent
+*Automated content generation and publishing engine for YouTube, TikTok, and X, featuring election/campaign automation.*
+
+---
+
+### 🛠️ Programming & Technologies
+
+- **Languages**: `Python`, `JavaScript/TypeScript`, `Bash/Shell`, `SQL`.
+- **Frameworks**: `React + Vite`, `Node.js`, `Django`, `FastAPI`.
+- **Architecture**: Multi-tenant SaaS, Per-tenant isolation, Microservices.
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpangeni&show_icons=true&theme=tokyonight" alt="Amrit's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpangeni&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritpangeni&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Reach Me
+### 📫 Connect With Me
 
-- 🌐 [Portfolio](https://amritpangeni.com.np)
-- 💼 [LinkedIn](https://www.linkedin.com/in/amrit-pangeni/)
-- 📧 [Email](mailto:contact@amritpangeni.com.np)
+- 💼 **LinkedIn**: [amrit-pangeni](https://www.linkedin.com/in/amrit-pangeni/)
+- 🌐 **Company**: [Trexif Inc.](https://trexif.com)
+- 🏢 **Professional Portfolio**: [amritpangeni.com.np](https://amritpangeni.com.np)
+- 📧 **Email**: [contact@amritpangeni.com.np](mailto:contact@amritpangeni.com.np)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=amritpangeni&color=blueviolet" alt="Profile Views" />
