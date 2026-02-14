@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Professional Profile
 
-I am a highly technical, product-focused engineer with **4+ years of experience** across cybersecurity, system engineering, DevOps, and cloud infrastructure. I specialize in building secure, scalable, production-grade systems—from infrastructure automation to enterprise platforms.
+I am a highly technical, product-focused engineer with **6+ years of experience** across cybersecurity, system engineering, DevOps, and cloud infrastructure. I specialize in building secure, scalable, production-grade systems—from infrastructure automation to enterprise platforms.
 
 - 🌍 Based in **Nepal**, working with global-grade architectures.
 - 🔐 Specialist in **Ethical Hacking & Cybersecurity** (Bachelor's Degree).
@@ -51,14 +51,20 @@ I am a highly technical, product-focused engineer with **4+ years of experience*
 
 ### 📦 Products & Projects
 
-#### 🔐 [Trexiam](https://trexif.com/trexiam) (Custom PAM Platform)
+#### 🔐 [Trexiam](https://trexif.com/trexiam) (Privilage Access Management Suite)
 *Custom-branded, enterprise-compliant Privileged Access Management platform built for government and enterprise use.*
 
-#### 👥 PeopleXIF (HRMS Platform)
-*Full-lifecycle employee management system (Recruitment → Exit) with multi-role access control and audit-ready design.*
+#### 👥 [StaffX](https://hr.trexif.com) (ATS based HRMS & Payroll Platform)
+*Full-lifecycle employee management system (Recruitment → Exit) with multi-role access control and audit-ready design with AI features to automate the recruitment process and analysis of profiles*
 
-#### 🤖 AI Social Media Agent
-*Automated content generation and publishing engine for YouTube, TikTok, and X, featuring election/campaign automation.*
+#### 🔐 [Edtrex](https://edtrex.com) (AI Based Learning & Educational Institution Management System)
+*enterprise-compliant AI-Assisted Academic Content Creation & AI-Assisted Learning platform built for Schools, colleges & Universities use.*
+
+#### 🔐 [CoderX] (https://github.com/amritpangeni/CoderX.git) (Opensource AI Coding Agent tool based on Code-oss)
+*CoderX is an open-source AI coding agent tool based on Code-oss, designed to assist developers in writing, debugging, and optimizing code. It integrates with various AI models to provide intelligent coding suggestions, code completion, and automated code generation.*
+
+#### 🔐 [knowThreat](https://github.com/amritpangeni/knowThreat.git) (Cybersecurity awareness and threat intelligence platform)
+*KnowThreat is a modern cybersecurity awareness and threat intelligence platform designed to help organizations identify, understand, and mitigate security risks through continuous training, simulation, and real-time threat insights.*
 
 ---
 
