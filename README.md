@@ -98,7 +98,7 @@ KnowThreat is a modern cybersecurity awareness and threat intelligence platform 
 - 💼 **LinkedIn**: [amrit-pangeni](https://www.linkedin.com/in/amrit-pangeni/)
 - 🌐 **Company**: [Trexif Inc.](https://trexif.com)
 - 🏢 **Professional Portfolio**: [amritpangeni.com.np](https://amritpangeni.com.np)
-- 📧 **Email**: [contact@amritpangeni.com.np](mailto:admin@trexif.com)
+- 📧 **Email**: [admin@trexif.com](mailto:admin@trexif.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=amritpangeni&color=blueviolet" alt="Profile Views" />
