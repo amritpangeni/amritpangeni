@@ -47,7 +47,7 @@ I am a **System, Infrastructure, Network, and Security Engineer** with over 5 ye
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritpangeni&show_icons=true&theme=tokyonight" alt="Amrit's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpangeni&show_icons=true&theme=tokyonight" alt="Amrit's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritpangeni&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
