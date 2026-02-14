@@ -1,12 +1,9 @@
 # Hi there, I'm Amrit Pangeni 👋
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Tools%20change.%20Architectures%20evolve.%20Strong%20fundamentals%20and%20system%20thinking%20never%20expire.&theme=tokyonight" alt="Career Philosophy" />
-</div>
-
-<div align="center">
   <h3>🚀 Founder & CEO @ <a href="https://trexif.com">Trexif Inc.</a></h3>
   <p><strong>System Engineer | Cybersecurity Specialist | DevOps & Cloud Architect</strong></p>
+  <p><i>"I don’t just write code — I design systems that last."</i></p>
 </div>
 
 ---
