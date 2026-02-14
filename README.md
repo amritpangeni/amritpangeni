@@ -52,19 +52,19 @@ I am a highly technical, product-focused engineer with **6+ years of experience*
 ### 📦 Products & Projects
 
 #### 🔐 [Trexiam](https://trexif.com/trexiam) (Privilege Access Management Suite)
-*Enterprise-grade Privileged Access Management (PAM) suite featuring secure credential vaulting, automated password rotation, and real-time session recording. Designed with Zero Trust architecture to secure critical infrastructure and ensure regulatory compliance through detailed auditing.*
+*Enterprise-grade Privileged Access Management (PAM) suite featuring secure credential vaulting, automated password rotation, and real-time session recording. Designed with Zero Trust architecture to secure critical infrastructure.*
 
 #### 👥 [StaffX](https://hr.trexif.com) (ATS based HRMS & Payroll Platform)
-Comprehensive HRMS and Payroll platform integrated with an Applicant Tracking System (ATS). It streamlines recruitment, employee lifecycle management, and automated payroll processing while ensuring organizational efficiency and data-driven HR decision-making.
+Comprehensive HRMS and Payroll platform integrated with an Applicant Tracking System (ATS). It streamlines recruitment, employee lifecycle management, and automated payroll processing.
 
-#### 🔐 [Edtrex](https://edtrex.com) (AI Based Learning & Educational Institution Management System)
-An AI-driven learning and educational institution management system designed to modernize academic operations. It features personalized learning paths, automated administrative workflows, and comprehensive student performance tracking to enhance the educational experience for both institutions and learners.
+#### 🔐 [Edtrex](https://edtrex.com) (AI Based Learning & Institution Management)
+An AI-driven learning and educational institution management system designed to modernize academic operations. It features personalized learning paths and automated administrative workflows.
 
 #### 🔐 [CoderX](https://github.com/amritpangeni/CoderX) (Open Source AI Coding Agent)
-CoderX is an open-source AI coding agent tool based on Code-oss, designed to assist developers in writing, debugging, and optimizing code. It integrates with various AI models to provide intelligent coding suggestions, code completion, and automated code generation.
+CoderX is an open-source AI coding agent tool based on Code-oss, designed to assist developers in writing, debugging, and optimizing code.
 
-#### 🔐 [knowThreat](https://github.com/amritpangeni/knowThreat) (Cybersecurity Awareness & Threat Intelligence)
-KnowThreat is a modern cybersecurity awareness and threat intelligence platform designed to help organizations identify, understand, and mitigate security risks through continuous training, simulation, and real-time threat insights.
+#### 🔐 [knowThreat](https://github.com/amritpangeni/knowThreat) (Cybersecurity Awareness & Intelligence)
+KnowThreat is a modern cybersecurity awareness and threat intelligence platform designed to help organizations identify and mitigate security risks.
 
 ---
 
@@ -79,16 +79,16 @@ KnowThreat is a modern cybersecurity awareness and threat intelligence platform 
 ### 📊 GitHub Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpangeni&show_icons=true&theme=tokyonight&hide_border=true&title_color=0052CC&icon_color=00B39E" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritpangeni&theme=tokyonight&hide_border=true&stroke=0052CC&ring=00B39E&fire=FF4B4B" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpangeni&show_icons=true&theme=tokyonight&hide_border=true&title_color=0052CC&icon_color=00B39E">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpangeni&show_icons=true&theme=default&hide_border=true&title_color=0052CC&icon_color=00B39E">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amritpangeni&show_icons=true&theme=tokyonight&hide_border=true&title_color=0052CC&icon_color=00B39E" alt="GitHub Stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=amritpangeni&theme=tokyonight&hide_border=true&stroke=0052CC&ring=00B39E&fire=FF4B4B">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=amritpangeni&theme=default&hide_border=true&stroke=0052CC&ring=00B39E&fire=FF4B4B">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritpangeni&theme=tokyonight&hide_border=true&stroke=0052CC&ring=00B39E&fire=FF4B4B" alt="GitHub Streak">
+  </picture>
 </div>
 
 ---
@@ -98,7 +98,7 @@ KnowThreat is a modern cybersecurity awareness and threat intelligence platform 
 - 💼 **LinkedIn**: [amrit-pangeni](https://www.linkedin.com/in/amrit-pangeni/)
 - 🌐 **Company**: [Trexif Inc.](https://trexif.com)
 - 🏢 **Professional Portfolio**: [amritpangeni.com.np](https://amritpangeni.com.np)
-- 📧 **Email**: [contact@amritpangeni.com.np](mailto:contact@amritpangeni.com.np)
+- 📧 **Email**: [contact@amritpangeni.com.np](mailto:admin@trexif.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=amritpangeni&color=blueviolet" alt="Profile Views" />
